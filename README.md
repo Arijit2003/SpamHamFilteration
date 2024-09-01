@@ -1,1 +1,1 @@
-# SpamHamFilteration
+# SpamHamDetection
